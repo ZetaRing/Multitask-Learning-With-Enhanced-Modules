@@ -18,7 +18,9 @@ SVHN transfer task by x1.9. Also we get 70.75% accuracy on
 miniImageNet.
 
 RF and DR Modules 
-  ![alt tag](https://github.com/Wind-Wing/readme_images/blob/master/enhanced_modules.pdf)
+
+  ![alt tag](https://github.com/Wind-Wing/readme_images/blob/master/enhanced_modules.png)
   
 Scale Parameters
-  ![alt tag](https://github.com/Wind-Wing/readme_images/blob/master/scale_parameters.pdf)
+
+  ![alt tag](https://github.com/Wind-Wing/readme_images/blob/master/scale_parameters.png)
